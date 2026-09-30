@@ -1,4 +1,4 @@
-Buy groceries
-Finish Git assignment
-Call teammate about demo
+[High] Buy groceries
+[Medium] Finish Git assignment
+[Low] Call teammate about demo
 
